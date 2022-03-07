@@ -17,6 +17,6 @@ But keep in mind that the data you adding is not changeable if there is any inte
 ---
 
 ### Q3
-In flow, if we are adding data to the blockchain or changing the data state, it is **transaction**.
+In flow, if we are adding data to the blockchain or changing the data state, it is **transaction**
 
 And if we only want to searching some data, it called **script** 👣
