@@ -54,8 +54,8 @@ pub contract Test:ITest {
   pub resource interface IStuff {
     pub var favouriteActivity: String
   }
-
-  pub resource Stuff: IStuff {
+  //change 3 ✔
+  pub resource Stuff: ITest.IStuff {
     pub var favouriteActivity: String
 
     init() {
